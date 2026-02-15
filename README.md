@@ -71,4 +71,4 @@
 
 
 <br>
-@KEB Project[유니핑]
+@KEB mini Project[유니핑]
